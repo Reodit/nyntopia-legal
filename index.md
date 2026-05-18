@@ -4,6 +4,7 @@
 
 - [개인정보처리방침 (Privacy Policy)](./privacy)
 - [이용약관 (Terms of Service)](./terms)
+- [계정 삭제 안내 (Account Deletion)](./account-deletion)
 
 ## 운영자 정보
 
